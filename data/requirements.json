@@ -1,0 +1,48 @@
+{
+  "data analysis": {
+    "databases": {
+      "MongoDB": "https://www.mongodb.com/datasheets"
+    },
+    "degrees": [
+      "Mathematics"
+    ]
+  },
+  "programming": {
+    "databases": {
+      "MongoDB": "https://www.mongodb.com/datasheets"
+    },
+    "degrees": [
+      ""
+    ],
+    "JavaScript": {
+      "AngularJS": "https://docs.angularjs.org/guide",
+      "React": "https://reactjs.org/docs/getting-started.html"
+    },
+    "Python": {
+
+    }
+  },
+  "project management": {
+    "degrees": [
+      ""
+    ],
+    "Microsoft Project": "https://docs.microsoft.com/en-us/projectonline/project-online"
+  },
+  "soft skills": [
+    "Leadership"
+  ],
+  "technical writing": {
+    "degrees": [
+      ""
+    ],
+    "Adobe InDesign": "https://helpx.adobe.com/indesign/user-guide.html"
+  },
+  "ui/ux": {
+    "degrees": [
+      ""
+    ],
+    "CSS": {
+      "Bootstrap": "https://getbootstrap.com/docs/4.3/getting-started/introduction/"
+    }
+  }
+}
