@@ -4,7 +4,7 @@
       "MongoDB": "https://www.mongodb.com/datasheets"
     },
     "degrees": [
-      "Mathematics"
+      "Mathematics, Computer Science"
     ]
   },
   "programming": {
@@ -12,7 +12,7 @@
       "MongoDB": "https://www.mongodb.com/datasheets"
     },
     "degrees": [
-      ""
+      "Computer Science"
     ],
     "JavaScript": {
       "AngularJS": "https://docs.angularjs.org/guide",
@@ -24,22 +24,22 @@
   },
   "project management": {
     "degrees": [
-      ""
+      "Computer Science"
     ],
     "Microsoft Project": "https://docs.microsoft.com/en-us/projectonline/project-online"
   },
   "soft skills": [
-    "Leadership"
+    "Leadership, Communication"
   ],
   "technical writing": {
     "degrees": [
-      ""
+      "English, Computer Science"
     ],
     "Adobe InDesign": "https://helpx.adobe.com/indesign/user-guide.html"
   },
   "ui/ux": {
     "degrees": [
-      ""
+      "Graphic Design, Computer Science, Art"
     ],
     "CSS": {
       "Bootstrap": "https://getbootstrap.com/docs/4.3/getting-started/introduction/"
