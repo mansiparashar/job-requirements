@@ -1,4 +1,16 @@
 {
+  "Angular": {
+    "degrees": ["Computer Science"],
+    "HTML": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "CSS": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "TypeScript": "https://www.typescriptlang.org/",
+    "Angular": "https://angular.io/",
+    "JavaScript": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "Bootstrap": "https://getbootstrap.com/",
+    "ngx-bootstrap": "https://valor-software.com/ngx-bootstrap/#/",
+    "Node.js": "https://nodejs.org/en/",
+    "npm": "https://www.npmjs.com/"
+  },
   "data analysis": {
     "databases": {
       "MongoDB": "https://www.mongodb.com/datasheets"
@@ -30,23 +42,5 @@
     "CSS": {
       "Bootstrap": "https://getbootstrap.com/docs/4.3/getting-started/introduction/"
     }
-  },
-  "Angular full stack developer": {
-    "degrees": ["Computer Science"],
-    "git": "https://git-scm.com/",
-    "HTML": "https://developer.mozilla.org/en-US/docs/Web/HTML",
-    "CSS": "https://developer.mozilla.org/en-US/docs/Web/CSS",
-    "JavaScript": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-    "TypeScript": "https://www.typescriptlang.org/",
-    "Angular": "https://angular.io/",
-    "Bootstrap": "https://getbootstrap.com/",
-    "ngx-bootstrap": "https://valor-software.com/ngx-bootstrap/#/",
-    "Node.js": "https://nodejs.org/en/",
-    "npm": "https://www.npmjs.com/",
-    "Express": "https://expressjs.com/",
-    "MongoDB": "https://www.mongodb.com/",
-    "MySQL": "https://www.mysql.com/",
-    "Webpack": "https://webpack.js.org/",
-    "REST API": "https://restfulapi.net"
   }
 }
