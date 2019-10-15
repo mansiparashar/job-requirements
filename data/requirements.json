@@ -1,46 +1,120 @@
 {
-  "Angular": {
-    "degrees": ["Computer Science"],
-    "HTML": "https://developer.mozilla.org/en-US/docs/Web/HTML",
-    "CSS": "https://developer.mozilla.org/en-US/docs/Web/CSS",
-    "TypeScript": "https://www.typescriptlang.org/",
-    "Angular": "https://angular.io/",
-    "JavaScript": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-    "Bootstrap": "https://getbootstrap.com/",
-    "ngx-bootstrap": "https://valor-software.com/ngx-bootstrap/#/",
-    "Node.js": "https://nodejs.org/en/",
-    "npm": "https://www.npmjs.com/"
-  },
-  "data analysis": {
-    "databases": {
-      "MongoDB": "https://www.mongodb.com/datasheets"
-    },
-    "degrees": ["Mathematics, Computer Science"]
+  "data": {
+    "Data Analysis": [
+      {
+        "name": "MongoDB",
+        "url": "https://www.mongodb.com/datasheets"
+      }
+    ],
+    "Data Science": [
+      {
+        "name": "AWS",
+        "url": "https://docs.aws.amazon.com/index.html?nc2=h_ql_doc"
+      }
+    ],
+    "degrees": [
+      "Mathematics",
+      "Computer Science"
+    ]
   },
   "programming": {
-    "databases": {
-      "MongoDB": "https://www.mongodb.com/datasheets"
-    },
-    "degrees": ["Computer Science"],
-    "JavaScript": {
-      "AngularJS": "https://docs.angularjs.org/guide",
-      "React": "https://reactjs.org/docs/getting-started.html"
-    },
-    "Python": {}
+    "databases": [
+      {
+        "name": "MongoDB",
+        "url": "https: //www.mongodb.com/datasheets"
+      }
+    ],
+    "degrees": [
+      "ComputerScience"
+    ],
+    "Angular": [
+      {
+        "name": "Angular",
+        "url": "https: //angular.io/"
+      },
+      {
+        "name": "Bootstrap",
+        "url": "https: //getbootstrap.com/"
+      },
+      {
+        "name": "JavaScript",
+        "url": "https: //developer.mozilla.org/en-US/docs/Web/JavaScript"
+      },
+      {
+        "name": "ngx-bootstrap",
+        "url": "https: //valor-software.com/ngx-bootstrap/#/"
+      },
+      {
+        "name": "Node.js",
+        "url": "https: //nodejs.org/en/"
+      },
+      {
+        "name": "npm",
+        "url": "https: //www.npmjs.com/"
+      },
+      {
+        "name": "TypeScript",
+        "url": "https: //www.typescriptlang.org/"
+      }
+    ],
+    "JavaScript": [
+      {
+        "name": "AngularJS",
+        "url": "https: //docs.angularjs.org/guide"
+      },
+      {
+        "name": "React",
+        "url": "https: //reactjs.org/docs/getting-started.html"
+      },
+      {
+        "name": "Node.js",
+        "url": "https: //nodejs.org/en/"
+      }
+    ],
+    "Python": [
+      
+    ]
   },
-  "project management": {
-    "degrees": ["Computer Science"],
-    "Microsoft Project": "https://docs.microsoft.com/en-us/projectonline/project-online"
+  "management": {
+    "degrees": [
+      "Computer Science"
+    ],
+    "software": [
+      {
+        "name": "MicrosoftProject",
+        "url": "https: //docs.microsoft.com/en-us/projectonline/project-online"
+      }
+    ]
   },
-  "soft skills": ["Leadership, Communication"],
-  "technical writing": {
-    "degrees": ["English, Computer Science"],
-    "Adobe InDesign": "https://helpx.adobe.com/indesign/user-guide.html"
-  },
+  "soft skills": [
+    "Leadership",
+    "Communication"
+  ],
   "ui/ux": {
-    "degrees": ["Graphic Design, Computer Science, Art"],
-    "CSS": {
-      "Bootstrap": "https://getbootstrap.com/docs/4.3/getting-started/introduction/"
-    }
+    "degrees": [
+      "GraphicDesign",
+      "ComputerScience",
+      "Art"
+    ],
+    "CSS": [
+      {
+        "name": "Bootstrap",
+        "url": "https: //getbootstrap.com/docs/4.3/getting-started/introduction/"
+      },
+      {
+        "name": "CSS",
+        "url": "https: //developer.mozilla.org/en-US/docs/Web/CSS"
+      },
+      {
+        "name": "ngx-bootstrap",
+        "url": "https: //valor-software.com/ngx-bootstrap/#/"
+      }
+    ],
+    "HTML": [
+      {
+        "name": "HTML",
+        "url": "https: //developer.mozilla.org/en-US/docs/Web/HTML"
+      }
+    ]
   }
 }
