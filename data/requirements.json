@@ -1,46 +1,44 @@
 {
+  "Angular": {
+    "degrees": ["Computer Science"],
+    "HTML": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "CSS": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "TypeScript": "https://www.typescriptlang.org/",
+    "Angular": "https://angular.io/",
+    "JavaScript": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "Bootstrap": "https://getbootstrap.com/",
+    "ngx-bootstrap": "https://valor-software.com/ngx-bootstrap/#/",
+    "Node.js": "https://nodejs.org/en/",
+    "npm": "https://www.npmjs.com/"
+  },
   "data analysis": {
     "databases": {
       "MongoDB": "https://www.mongodb.com/datasheets"
     },
-    "degrees": [
-      "Mathematics, Computer Science"
-    ]
+    "degrees": ["Mathematics, Computer Science"]
   },
   "programming": {
     "databases": {
       "MongoDB": "https://www.mongodb.com/datasheets"
     },
-    "degrees": [
-      "Computer Science"
-    ],
+    "degrees": ["Computer Science"],
     "JavaScript": {
       "AngularJS": "https://docs.angularjs.org/guide",
       "React": "https://reactjs.org/docs/getting-started.html"
     },
-    "Python": {
-
-    }
+    "Python": {}
   },
   "project management": {
-    "degrees": [
-      "Computer Science"
-    ],
+    "degrees": ["Computer Science"],
     "Microsoft Project": "https://docs.microsoft.com/en-us/projectonline/project-online"
   },
-  "soft skills": [
-    "Leadership, Communication"
-  ],
+  "soft skills": ["Leadership, Communication"],
   "technical writing": {
-    "degrees": [
-      "English, Computer Science"
-    ],
+    "degrees": ["English, Computer Science"],
     "Adobe InDesign": "https://helpx.adobe.com/indesign/user-guide.html"
   },
   "ui/ux": {
-    "degrees": [
-      "Graphic Design, Computer Science, Art"
-    ],
+    "degrees": ["Graphic Design, Computer Science, Art"],
     "CSS": {
       "Bootstrap": "https://getbootstrap.com/docs/4.3/getting-started/introduction/"
     }
