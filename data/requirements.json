@@ -16,26 +16,26 @@
 	"Data Scientist":[
 		{
 			"name":"Hadoop",
-        	"url": "https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html"
+      "url": "https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html"
 		},
 		{
 			"name": " Hive",
-			        	"url": "https://cwiki.apache.org/confluence/display/Hive/GettingStarted"
+			"url": "https://cwiki.apache.org/confluence/display/Hive/GettingStarted"
 
 		},
 		{
 			"name":" Spark",
-			        	"url": "https://spark.apache.org/docs/latest/"
+			"url": "https://spark.apache.org/docs/latest/"
 
 		},
 		{
 			"name":" Gurobi", 
-			        	"url": "https://www.gurobi.com/documentation/"
+			"url": "https://www.gurobi.com/documentation/"
 
 		},
 		{
 			"name": "MySQL",
-			        	"url": "https://dev.mysql.com/doc/"
+			"url": "https://dev.mysql.com/doc/"
 
 		}
 	],
@@ -46,6 +46,10 @@
   },
   "programming": {
     "databases": [
+      {
+        "name": "Firebase Realtime Database",
+        "url": "https://firebase.google.com/docs/database"
+      },
       {
         "name": "MongoDB",
         "url": "https: //www.mongodb.com/datasheets"
@@ -96,19 +100,23 @@
       {
         "name": "Node.js",
         "url": "https: //nodejs.org/en/"
+      }, 
+      {
+        "name": "Vue.js",
+        "url": "https://vuejs.org/v2/guide/"
       }
     ],
     "Python": [
-       { 
-	   "name": "Python",
-       "url": "https://www.python.org/doc/"      
-    }],
-	"R": [
-	 { 
-		"name": "R",
-        "url": "https://www.r-project.org/"    
-	}
-	]
+      { 
+	      "name": "Python",
+        "url": "https://www.python.org/doc/"      
+      }],
+	  "R": [
+      { 
+          "name": "R",
+          "url": "https://www.r-project.org/"    
+      }
+    ]
   },
   "management": {
     "degrees": [
@@ -117,7 +125,7 @@
     "software": [
       {
         "name": "MicrosoftProject",
-        "url": "https: //docs.microsoft.com/en-us/projectonline/project-online"
+        "url": "https://docs.microsoft.com/en-us/projectonline/project-online"
       }
     ]
   },
@@ -135,21 +143,25 @@
     "CSS": [
       {
         "name": "Bootstrap",
-        "url": "https: //getbootstrap.com/docs/4.3/getting-started/introduction/"
+        "url": "https://getbootstrap.com/docs/4.3/getting-started/introduction/"
       },
       {
         "name": "CSS",
-        "url": "https: //developer.mozilla.org/en-US/docs/Web/CSS"
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
       },
       {
         "name": "ngx-bootstrap",
-        "url": "https: //valor-software.com/ngx-bootstrap/#/"
+        "url": "https://valor-software.com/ngx-bootstrap/#/"
+      },
+      {
+        "name": "Vuetify",
+        "url": "https://vuetifyjs.com/en/"
       }
     ],
     "HTML": [
       {
         "name": "HTML",
-        "url": "https: //developer.mozilla.org/en-US/docs/Web/HTML"
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
       }
     ]
   }
