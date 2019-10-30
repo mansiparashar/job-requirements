@@ -46,6 +46,10 @@
   },
   "programming": {
     "databases": [
+	  {
+		"name": "Cassandra",
+		"url": "http://cassandra.apache.org/doc/latest/"
+	  },
       {
         "name": "Firebase Realtime Database",
         "url": "https://firebase.google.com/docs/database"
@@ -53,11 +57,7 @@
       {
         "name": "MongoDB",
         "url": "https: //www.mongodb.com/datasheets"
-      },
-	  {
-		"name": "Cassandra",
-		"url": "http://cassandra.apache.org/doc/latest/"
-	  }
+      }
     ],
     "degrees": [
       "ComputerScience"
