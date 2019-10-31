@@ -104,6 +104,10 @@
       {
         "name": "Vue.js",
         "url": "https://vuejs.org/v2/guide/"
+      },
+      {
+        "name": "GraphQL",
+        "url": "https://graphql.org/learn/"
       }
     ],
     "Python": [
