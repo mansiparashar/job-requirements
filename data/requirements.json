@@ -46,6 +46,10 @@
   },
   "programming": {
     "databases": [
+	  {
+		"name": "Cassandra",
+		"url": "http://cassandra.apache.org/doc/latest/"
+	  },
       {
         "name": "Firebase Realtime Database",
         "url": "https://firebase.google.com/docs/database"
