@@ -15,28 +15,25 @@
     ],
 	"Data Scientist":[
 		{
-			"name":"Hadoop",
+			"name": "Hadoop",
       "url": "https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html"
 		},
 		{
-			"name": " Hive",
+			"name": "Hive",
 			"url": "https://cwiki.apache.org/confluence/display/Hive/GettingStarted"
 
 		},
 		{
-			"name":" Spark",
+			"name": "Spark",
 			"url": "https://spark.apache.org/docs/latest/"
-
 		},
 		{
-			"name":" Gurobi", 
+			"name": "Gurobi", 
 			"url": "https://www.gurobi.com/documentation/"
-
 		},
 		{
 			"name": "MySQL",
 			"url": "https://dev.mysql.com/doc/"
-
 		}
 	],
     "degrees": [
@@ -65,45 +62,49 @@
     "Angular": [
       {
         "name": "Angular",
-        "url": "https: //angular.io/"
+        "url": "https://angular.io/"
       },
       {
         "name": "Bootstrap",
-        "url": "https: //getbootstrap.com/"
+        "url": "https://getbootstrap.com/"
+      },
+      {
+        "name": "Go",
+        "url": "https://golang.org/"
       },
       {
         "name": "JavaScript",
-        "url": "https: //developer.mozilla.org/en-US/docs/Web/JavaScript"
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       },
       {
         "name": "ngx-bootstrap",
-        "url": "https: //valor-software.com/ngx-bootstrap/#/"
+        "url": "https://valor-software.com/ngx-bootstrap/#/"
       },
       {
         "name": "Node.js",
-        "url": "https: //nodejs.org/en/"
+        "url": "https://nodejs.org/en/"
       },
       {
         "name": "npm",
-        "url": "https: //www.npmjs.com/"
+        "url": "https://www.npmjs.com/"
       },
       {
         "name": "TypeScript",
-        "url": "https: //www.typescriptlang.org/"
+        "url": "https://www.typescriptlang.org/"
       }
     ],
     "JavaScript": [
       {
         "name": "AngularJS",
-        "url": "https: //docs.angularjs.org/guide"
+        "url": "https://docs.angularjs.org/guide"
       },
       {
         "name": "React",
-        "url": "https: //reactjs.org/docs/getting-started.html"
+        "url": "https://reactjs.org/docs/getting-started.html"
       },
       {
         "name": "Node.js",
-        "url": "https: //nodejs.org/en/"
+        "url": "https://nodejs.org/en/"
       }, 
       {
         "name": "Vue.js",
@@ -147,6 +148,10 @@
       "Art"
     ],
     "CSS": [
+	    {
+        "name": "CSS",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+      },
       {
         "name": "Bootstrap",
         "url": "https://getbootstrap.com/docs/4.3/getting-started/introduction/"
