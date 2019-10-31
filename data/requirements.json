@@ -111,6 +111,10 @@
         "url": "https://docs.angularjs.org/guide"
       },
       {
+        "name": "GraphQL",
+        "url": "https://graphql.org/learn/"
+},
+      {
         "name": "React",
         "url": "https://reactjs.org/docs/getting-started.html"
       },
@@ -118,6 +122,10 @@
         "name": "Node.js",
         "url": "https://nodejs.org/en/"
       }, 
+      {
+        "name": "React",
+        "url": "https: //reactjs.org/docs/getting-started.html"
+      },
       {
         "name": "Vue.js",
         "url": "https://vuejs.org/v2/guide/"
