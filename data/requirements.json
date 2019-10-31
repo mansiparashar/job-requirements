@@ -4,6 +4,18 @@
       {
         "name": "MongoDB",
         "url": "https://www.mongodb.com/datasheets"
+      },
+      {
+        "name": "MySQL",
+        "url": "https://dev.mysql.com/doc/"
+      },
+      {
+        "name": "SQL",
+        "url": "https://www.w3schools.com/sql/"
+      },
+      {
+        "name": "MariaDB",
+        "url": "https://mariadb.org/"
       }
     ],
     "Data Science": [
