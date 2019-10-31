@@ -94,20 +94,20 @@
         "url": "https: //docs.angularjs.org/guide"
       },
       {
-        "name": "React",
-        "url": "https: //reactjs.org/docs/getting-started.html"
+        "name": "GraphQL",
+        "url": "https://graphql.org/learn/"
       },
       {
         "name": "Node.js",
         "url": "https: //nodejs.org/en/"
       }, 
       {
-        "name": "Vue.js",
-        "url": "https://vuejs.org/v2/guide/"
+        "name": "React",
+        "url": "https: //reactjs.org/docs/getting-started.html"
       },
       {
-        "name": "GraphQL",
-        "url": "https://graphql.org/learn/"
+        "name": "Vue.js",
+        "url": "https://vuejs.org/v2/guide/"
       }
     ],
     "Python": [
