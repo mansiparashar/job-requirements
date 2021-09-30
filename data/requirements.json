@@ -22,6 +22,10 @@
       {
         "name": "AWS",
         "url": "https://docs.aws.amazon.com/index.html?nc2=h_ql_doc"
+      },
+	{
+        "name": "Microsoft Azure",
+        "url": "https://docs.microsoft.com/en-us/azure/?product=featured"
       }
 	  
     ],
@@ -151,6 +155,10 @@
       {
         "name": "MicrosoftProject",
         "url": "https://docs.microsoft.com/en-us/projectonline/project-online"
+      },
+	{
+	 "name": "Jira",
+	  "url":"https://www.atlassian.com/software/jira"
       }
     ]
   },
